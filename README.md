@@ -1,4 +1,4 @@
-![CI](https://github.com/JonS87/DnD/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/JonS87/anim/actions/workflows/web.yml/badge.svg)
 
 Домашнее задание к занятию "6. Работа с файлами, DnD"
 Правила сдачи задания:
